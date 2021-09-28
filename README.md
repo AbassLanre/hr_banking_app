@@ -4,12 +4,8 @@ A banking application that registers a user and logs in a user using a simple Ho
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![HrQuick](https://user-images.githubusercontent.com/35698319/135014131-ed92acaf-e5ca-41ff-bcc1-c776031c8f1b.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
