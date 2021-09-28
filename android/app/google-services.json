@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423609519803",
+    "project_id": "hr-banking-app",
+    "storage_bucket": "hr-banking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423609519803:android:8c4e7662acf922eec3a39e",
+        "android_client_info": {
+          "package_name": "com.abassapp.hr_banking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423609519803-qmr4e4jo73dk4mtsqdjl38v2rjgut80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzdOV41dJX4QIsZ79Hy2r1W19SwIdvE_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423609519803-qmr4e4jo73dk4mtsqdjl38v2rjgut80i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
